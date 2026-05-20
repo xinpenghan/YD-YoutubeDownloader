@@ -15,13 +15,13 @@
 YoutubeDownloader 是一款可以下载 YouTube 视频的应用程序。您可以复制粘贴任何视频、播放列表或频道的 URL，并直接以您选择的格式下载,并且还支持SOCKS5协议，这是其它软件没有的功能。
 
 </p>
-<br><br>
+<br>
 <table>
     <tr>
         <td width="99999" align="center">本项目完全由个人开发学习使用，由于我还是个学生，还在上学中. <b><a href="https://www.paypal.com/ncp/payment/E3KMAPWSR2X3S">欢迎捐款以资助我</a></b></td>
     </tr>
 </table>
 
-<br><br>
+<br>
 
 <img alt="Vditor" src="https://www.eblog.top/uploads/youtube-image/2.png" />
