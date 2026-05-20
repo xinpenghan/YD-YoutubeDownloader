@@ -12,32 +12,31 @@
 
 <p>
 
-YoutubeDownloader 是一款可以下载 YouTube 视频的应用程序。您可以复制粘贴任何视频、播放列表或频道的 URL，并直接以您选择的格式下载,并且还支持SOCKS5协议，这是其它软件没有的功能。
+YoutubeDownloader is an application that can download YouTube videos. You can copy and paste the URL of any video, playlist, or channel and download it directly in your chosen format. It also supports the SOCKS5 protocol, a feature not found in other software.
 
 </p>
 <br>
 <table>
     <tr>
-        <td width="99999" align="center">本项目完全由个人开发学习使用，我还是个学生，还在上学中. <b><a href="https://www.paypal.com/ncp/payment/E3KMAPWSR2X3S">欢迎捐款资助我</a></b></td>
+        <td width="99999" align="center">This project was developed entirely for my personal learning and use. I am still a student and in school.<b><a href="https://www.paypal.com/ncp/payment/E3KMAPWSR2X3S">Donations are welcome to support me.</a></b></td>
     </tr>
 </table>
 
  <img alt="Vditor" src="https://www.eblog.top/uploads/youtube-image/paypal.png" width="200" />
 
-## 下载地址
-   - 📦 **[稳定版本](https://github.com/xinpenghan/YoutubeDownloader/releases/)**
+## Download link
+   - 📦 **[stable version](https://github.com/xinpenghan/YoutubeDownloader/releases/)**
 
 <br>
 
-## 软件包含的其它的github项目
+## Other GitHub projects included in the software
    - 📦   <a href="https://github.com/yt-dlp/yt-dlp/">yt-dlp</a>
    - 📦   <a href="https://github.com/FFmpeg/FFmpeg">FFmpeg</a>
 
 
 
 
-## 屏幕截图
-
-<img alt="Vditor" src="https://www.eblog.top/uploads/youtube-image/5.png" />
+## Screenshot
 
 <img alt="Vditor" src="https://www.eblog.top/uploads/youtube-image/2.png" />
+<img alt="Vditor" src="https://www.eblog.top/uploads/youtube-image/5.png" />
