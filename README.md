@@ -2,7 +2,7 @@
   
 <img alt="Vditor" src="https://www.eblog.top/uploads/youtube-image/logo-1.png" />
 <br>
-<h3>YoutubeDownloader</h3>
+<h3>YD YoutubeDownloader</h3>
 
 <a title="MIT" target="_blank" href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square"></a>
 <br>
@@ -14,7 +14,7 @@
 
 <p>
 
-YoutubeDownloader is an application that can download YouTube videos. You can copy and paste the URL of any video, playlist, or channel and download it directly in your chosen format. It also supports the SOCKS5 protocol, a feature not found in other software.
+YD YoutubeDownloader is an application that can download YouTube videos. You can copy and paste the URL of any video, playlist, or channel and download it directly in your chosen format. It also supports the SOCKS5 protocol, a feature not found in other software.
 
 </p>
 <br>
