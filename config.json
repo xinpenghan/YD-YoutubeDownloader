@@ -1,0 +1,9 @@
+{
+  "output_dir": "C:/Users/xinpe/Downloads",
+  "proxy_mode": "manual",
+  "proxy_host": "127.0.0.1",
+  "proxy_port": "3066",
+  "video_quality": "1080p",
+  "download_audio_only": false,
+  "language": "简体中文"
+}
